@@ -1,2 +1,2 @@
 # ERD Normalization
-<img src ="./erd.jpg" alt = "Erd">
+<img src ="./ERD/erd.jpg" alt = "Erd">
