@@ -1,3 +1,3 @@
 # ERD 
-<img src= "./imageserd.jpeg" alt = "ERD">
+<img src= "./erd.jpg" alt = "ERD">
 
